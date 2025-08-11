@@ -80,7 +80,3 @@ O pipeline realiza:
 ## Licença
 
 Este projeto é de uso acadêmico e experimental, podendo ser adaptado para fins comerciais mediante autorização.
-
-Jupyter Notebook
-
-📂 Estrutura do Projeto
